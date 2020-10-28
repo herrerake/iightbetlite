@@ -16,22 +16,22 @@ const Footer = () => (
       <Row className="text-center">
         <Col>
           <Link to="/">
-            <BsFillHouseFill />
+            <BsFillHouseFill size={25}/>
           </Link>
         </Col>
         <Col>
           <Link to="/form">
-            <BsPencilSquare />
+            <BsPencilSquare size={25}/>
           </Link>
         </Col>
         <Col>
           <Link to="/rules">
-            <GrDocumentText />
+            <GrDocumentText size={25}/>
           </Link>
         </Col>
         <Col>
           <Link to="/sheet">
-            <FaFootballBall />
+            <FaFootballBall size={25}/>
           </Link>
         </Col>
       </Row>
