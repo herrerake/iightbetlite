@@ -1,3 +1,7 @@
 .freebirdFormviewerViewFooterEmbeddedBackground {
     display: none;
 }
+
+.freebirdFormviewerViewCenteredContent {
+    margin: inherit;
+}

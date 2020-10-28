@@ -8,10 +8,22 @@ const RulesPage = () => (
   <Layout>
     <SEO title="Page two" />
     <h1>Official Pool Rules</h1>
+    <p>
+      Pool form will be made available Wednesdays <br />
+      <Link to="paid-version-form">Paid Version</Link>
+      <br />
+      <Link to="/free-version-form">Free Version</Link>
+    </p>
+    <p>
+      The pool sheet for the week will be made available 30 minutes before TNF
+      kickoff
+      <br />
+      <Link to="/sheet">Sheet</Link>
+    </p>
     <ul>
       <li>
         Players must submit money entry in the amount agreed upon to designated
-        pot holder no later than the first scheduled game kickoff.
+        pot holder no later than TNF kick off.
         <ul>
           <li>
             If contestant does not pay the entry fee by TNF, a $5.00 tax will
@@ -80,7 +92,10 @@ const RulesPage = () => (
         the bookie/sheet holder.
       </li>
     </ul>
-    <p></p>
+    <p>
+      NOTE: If no TNF game is scheduled for the week, then apply to the first
+      game of the week.
+    </p>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )

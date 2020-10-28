@@ -1,5 +1,4 @@
 import React from "react"
-import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -7,9 +6,11 @@ import SEO from "../components/seo"
 const SheetPage = () => (
   <Layout>
     <SEO title="NFL Week 8 Sheet" />
-    <h1>NFL Week 8 Sheet</h1>
+    <h1>NFL Week 8 Sheets</h1>
+    <h3>Paid Version</h3>
     <p>Check back later for the sheet.</p>
-    <Link to="/">Go back to the homepage</Link>
+    <h3>Free Version</h3>
+    <p>Check back later for the sheet.</p>
   </Layout>
 )
 

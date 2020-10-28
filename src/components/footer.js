@@ -1,12 +1,9 @@
 import { Link } from "gatsby"
 import React from "react"
 
-import Container from "react-bootstrap/Container"
-import Row from "react-bootstrap/Row"
-import Col from "react-bootstrap/Col"
+import { Container, Row, Col } from "react-bootstrap"
 
-import { BsFillHouseFill } from "react-icons/bs"
-import { BsPencilSquare } from "react-icons/bs"
+import { BsFillHouseFill, BsPencilSquare } from "react-icons/bs"
 import { GrDocumentText } from "react-icons/gr"
 import { FaFootballBall } from "react-icons/fa"
 
@@ -20,18 +17,23 @@ const Footer = () => (
           </Link>
         </Col>
         <Col>
-          <Link to="/form">
+          <Link to="/paid-version-form">
+            <BsPencilSquare size={25}/>
+          </Link>
+        </Col>
+        <Col>
+          <Link to="/sheet">
+            <FaFootballBall size={25}/>
+          </Link>
+        </Col>
+        <Col>
+          <Link to="/free-version-form">
             <BsPencilSquare size={25}/>
           </Link>
         </Col>
         <Col>
           <Link to="/rules">
             <GrDocumentText size={25}/>
-          </Link>
-        </Col>
-        <Col>
-          <Link to="/sheet">
-            <FaFootballBall size={25}/>
           </Link>
         </Col>
       </Row>
