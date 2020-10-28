@@ -96,7 +96,6 @@ const RulesPage = () => (
       NOTE: If no TNF game is scheduled for the week, then apply to the first
       game of the week.
     </p>
-    <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
 
