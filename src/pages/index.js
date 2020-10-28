@@ -19,7 +19,6 @@ const IndexPage = () => (
     <Link to="/rules/">See the Rules</Link> <br />
     <Link to="/form/">Pool Form</Link> <br />
     <Link to="/sheet/">Weekly Sheet</Link> <br />
-    <Link to="/history/">History</Link> <br />
   </Layout>
 )
 
