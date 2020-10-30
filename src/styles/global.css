@@ -5,3 +5,7 @@
 .freebirdFormviewerViewCenteredContent {
     margin: inherit;
 }
+
+.switcherOuter {
+    display: none;
+}

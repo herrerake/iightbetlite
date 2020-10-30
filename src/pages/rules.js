@@ -11,8 +11,6 @@ const RulesPage = () => (
     <p>
       Pool form will be made available Wednesdays <br />
       <Link to="paid-version-form">Paid Version</Link>
-      <br />
-      <Link to="/free-version-form">Free Version</Link>
     </p>
     <p>
       The pool sheet for the week will be made available 30 minutes before TNF

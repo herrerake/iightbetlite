@@ -27,11 +27,6 @@ const Footer = () => (
           </Link>
         </Col>
         <Col>
-          <Link to="/free-version-form">
-            <BsPencilSquare size={25}/>
-          </Link>
-        </Col>
-        <Col>
           <Link to="/rules">
             <GrDocumentText size={25}/>
           </Link>
