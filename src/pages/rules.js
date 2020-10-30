@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 
 const RulesPage = () => (
   <Layout>
-    <SEO title="Page two" />
+    <SEO title="Rules" />
     <h1>Official Pool Rules</h1>
     <p>
       Pool form will be made available Wednesdays <br />
