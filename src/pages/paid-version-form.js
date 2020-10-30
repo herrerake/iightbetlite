@@ -16,7 +16,6 @@ const FormPage = () => (
           <p>Buy in: $25</p>
           <p>Winner take all</p>
           <p>By submitting picks to this pool you agree to follow the rules laid out on <Link to="/rules">this page</Link></p>
-          <p>Visit <Link to="/free-version-form">this page</Link> in order to join the free pool for a chance to win $100 in week 16!</p>
         </Col>
       </Row>
     </Container>
