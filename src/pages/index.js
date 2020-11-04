@@ -41,7 +41,6 @@ const IndexPage = () => (
       </Row>
       <Row>
         <Col>
-          <h2>History Feed</h2>
           <Card>
             <Card.Header>NFL Week 7 Pool (Paid)</Card.Header>
             <Card.Body>
