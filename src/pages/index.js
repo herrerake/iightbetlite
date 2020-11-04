@@ -25,7 +25,7 @@ const IndexPage = () => (
             <Card.Header>NFL Week 8 Pool (Paid)</Card.Header>
             <Card.Body>
               <Card.Title>Winner: Salv</Card.Title>
-              <Card.Text>Pot: $350</Card.Text>
+              <Card.Text>Pot: $300</Card.Text>
               <Button variant="primary">
                 <Link
                   className="text-white"
