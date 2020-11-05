@@ -39,7 +39,7 @@ const IndexPage = () => (
           </Card>
         </Col>
       </Row>
-      <Row>
+      <Row className="mt-5">
         <Col>
           <Card>
             <Card.Header>NFL Week 7 Pool (Paid)</Card.Header>

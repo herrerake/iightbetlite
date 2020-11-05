@@ -19,7 +19,7 @@ const FormPage = () => (
             By submitting picks to this pool you agree to follow the rules laid
             out on <Link to="/rules">this page</Link>
           </p>
-          <p>IMPORTANT: When submitting your payment, please let the mooney holder know your nickname.</p>
+          <p>IMPORTANT: When submitting your payment, please let the money holder know your nickname.</p>
         </Col>
       </Row>
     </Container>
