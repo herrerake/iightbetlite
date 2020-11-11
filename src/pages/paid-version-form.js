@@ -19,12 +19,15 @@ const FormPage = () => (
             By submitting picks to this pool you agree to follow the rules laid
             out on <Link to="/rules">this page</Link>
           </p>
-          <p>IMPORTANT: When submitting your payment, please let the money holder know your nickname.</p>
+          <p>
+            IMPORTANT: When submitting your payment, please let the money holder
+            know your nickname.
+          </p>
         </Col>
       </Row>
     </Container>
     <iframe
-      src="https://docs.google.com/forms/d/e/1FAIpQLSe01bjmGkte0Dn2HFWk1X4C6Afm08S9A8FwkQh66gH1q90l5Q/viewform?embedded=true"
+      src="https://docs.google.com/forms/d/e/1FAIpQLSdHhbk2KpxI2IltQeyjjt8q3Eqagmz4elJavkP-X9ercXLIoQ/viewform?embedded=true"
       width="375"
       height="4190"
       frameborder="0"
