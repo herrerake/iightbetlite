@@ -22,6 +22,26 @@ const IndexPage = () => (
         <Col>
           <h2>History Feed</h2>
           <Card>
+            <Card.Header>NFL Week 11 Pool (Paid)</Card.Header>
+            <Card.Body>
+              <Card.Title>Winner: Split Salv & Primo</Card.Title>
+              <Card.Text>Pot: $200</Card.Text>
+              <Button variant="primary">
+                <Link
+                  className="text-white"
+                  to="https://docs.google.com/spreadsheets/d/1OQnwPNnJPJhSrw-oV8mkgUVY3vgv7lvzPVFUwYR5xmw/edit?usp=sharing"
+                  target="_blank"
+                >
+                  View Sheet
+                </Link>
+              </Button>
+            </Card.Body>
+          </Card>
+        </Col>
+      </Row>
+      <Row className="mt-5">
+        <Col>
+          <Card>
             <Card.Header>NFL Week 10 Pool (Paid)</Card.Header>
             <Card.Body>
               <Card.Title>Winner: Primo</Card.Title>
