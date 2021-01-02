@@ -8,12 +8,12 @@ import { Container, Row, Col } from "react-bootstrap"
 
 const FormPage = () => (
   <Layout>
-    <SEO title="NFL Week 16 Form" />
+    <SEO title="NFL Week 17 Form" />
     <Container>
       <Row>
         <Col>
           <h1>Weekly Pool Paid Version</h1>
-          <p>Buy in: $25</p>
+          <p>Buy in: $20</p>
           <p>Winner take all</p>
           <p>
             By submitting picks to this pool you agree to follow the rules laid
@@ -27,7 +27,7 @@ const FormPage = () => (
       </Row>
     </Container>
     <iframe
-      src="https://docs.google.com/forms/d/e/1FAIpQLSdEME1d5SnUw-SAzgcsLBI7TkEYyjvds41WsUyWoMdQoo-1Uw/viewform?embedded=true"
+      src="https://docs.google.com/forms/d/e/1FAIpQLSewi4hLjJ_mzlRg90WpmKTftsqqh2iRQwzQS96cd2pTzQGPag/viewform?embedded=true"
       title="Pick 'Ems Form"
       width="375"
       height="4190"
