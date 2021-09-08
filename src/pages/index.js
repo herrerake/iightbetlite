@@ -22,7 +22,7 @@ const IndexPage = () => (
         <Col>
           <h2>History Feed</h2>
           <Card>
-            <Card.Header>NFL Wild Card Pool (Paid)</Card.Header>
+            <Card.Header>2020 NFL Wild Card Pool (Paid)</Card.Header>
             <Card.Body>
               <Card.Title>Winner: XxxDada89</Card.Title>
               <Card.Text>Pot: $250</Card.Text>
@@ -42,7 +42,7 @@ const IndexPage = () => (
       <Row className="mt-5">
         <Col>
           <Card>
-            <Card.Header>NFL Week 15 Pool (Paid)</Card.Header>
+            <Card.Header>2020 NFL Week 15 Pool (Paid)</Card.Header>
             <Card.Body>
               <Card.Title>Winner: Sel</Card.Title>
               <Card.Text>Pot: $100</Card.Text>
@@ -62,7 +62,7 @@ const IndexPage = () => (
       <Row className="mt-5">
         <Col>
           <Card>
-            <Card.Header>NFL Week 14 Pool (Paid)</Card.Header>
+            <Card.Header>2020 NFL Week 14 Pool (Paid)</Card.Header>
             <Card.Body>
               <Card.Title>Winner: Primo</Card.Title>
               <Card.Text>Pot: $150</Card.Text>
@@ -82,7 +82,7 @@ const IndexPage = () => (
       <Row className="mt-5">
         <Col>
           <Card>
-            <Card.Header>NFL Week 13 Pool (Paid)</Card.Header>
+            <Card.Header>2020 NFL Week 13 Pool (Paid)</Card.Header>
             <Card.Body>
               <Card.Title>Winner: Lachino</Card.Title>
               <Card.Text>Pot: $250</Card.Text>
@@ -102,7 +102,7 @@ const IndexPage = () => (
       <Row className="mt-5">
         <Col>
           <Card>
-            <Card.Header>NFL Week 11 Pool (Paid)</Card.Header>
+            <Card.Header>2020 NFL Week 11 Pool (Paid)</Card.Header>
             <Card.Body>
               <Card.Title>Winner: Split Salv & Primo</Card.Title>
               <Card.Text>Pot: $200</Card.Text>
@@ -122,7 +122,7 @@ const IndexPage = () => (
       <Row className="mt-5">
         <Col>
           <Card>
-            <Card.Header>NFL Week 10 Pool (Paid)</Card.Header>
+            <Card.Header>2020 NFL Week 10 Pool (Paid)</Card.Header>
             <Card.Body>
               <Card.Title>Winner: Primo</Card.Title>
               <Card.Text>Pot: $325</Card.Text>
@@ -142,7 +142,7 @@ const IndexPage = () => (
       <Row className="mt-5">
         <Col>
           <Card>
-            <Card.Header>NFL Week 9 Pool (Paid)</Card.Header>
+            <Card.Header>2020 NFL Week 9 Pool (Paid)</Card.Header>
             <Card.Body>
               <Card.Title>Winner: Primo</Card.Title>
               <Card.Text>Pot: $350</Card.Text>
@@ -162,7 +162,7 @@ const IndexPage = () => (
       <Row className="mt-5">
         <Col>
           <Card>
-            <Card.Header>NFL Week 8 Pool (Paid)</Card.Header>
+            <Card.Header>2020 NFL Week 8 Pool (Paid)</Card.Header>
             <Card.Body>
               <Card.Title>Winner: Salv</Card.Title>
               <Card.Text>Pot: $300</Card.Text>
@@ -182,7 +182,7 @@ const IndexPage = () => (
       <Row className="mt-5">
         <Col>
           <Card>
-            <Card.Header>NFL Week 7 Pool (Paid)</Card.Header>
+            <Card.Header>2020 NFL Week 7 Pool (Paid)</Card.Header>
             <Card.Body>
               <Card.Title>Winner: Chingateputo</Card.Title>
               <Card.Text>Pot: $375</Card.Text>
@@ -202,7 +202,7 @@ const IndexPage = () => (
       <Row className="mt-5">
         <Col>
           <Card>
-            <Card.Header>NFL Week 6 Pool (Paid)</Card.Header>
+            <Card.Header>2020 NFL Week 6 Pool (Paid)</Card.Header>
             <Card.Body>
               <Card.Title>Winner: Lou</Card.Title>
               <Card.Text>Pot: $500</Card.Text>
