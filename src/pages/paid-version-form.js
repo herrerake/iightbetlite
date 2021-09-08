@@ -13,7 +13,6 @@ const FormPage = () => (
       <Row>
         <Col>
           <h1>Weekly Pool</h1>
-          <p>Buy in: $25</p>
           <p>Winner take all</p>
           <p>Picks are due by Thursday @ 5pm EST</p>
           <p>
