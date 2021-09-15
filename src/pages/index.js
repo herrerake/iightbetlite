@@ -22,6 +22,26 @@ const IndexPage = () => (
         <Col>
           <h2>History Feed</h2>
           <Card>
+            <Card.Header>2021 NFL Week 1 Pool (Paid)</Card.Header>
+            <Card.Body>
+              <Card.Title>Winner: Thinh</Card.Title>
+              <Card.Text>Pot: $250</Card.Text>
+              <Button variant="primary">
+                <Link
+                  className="text-white"
+                  to="https://docs.google.com/spreadsheets/d/e/2PACX-1vQFfm-h-AZA7xh2NL-RtepT9oU6dxWnL4OsUD8eh81TKRq0HOtvpsz7yfkBsTFJf_UWAoJBbENTmeca/pubhtml?gid=63944394&single=true"
+                  target="_blank"
+                >
+                  View Sheet
+                </Link>
+              </Button>
+            </Card.Body>
+          </Card>
+        </Col>
+      </Row>
+      <Row className="mt-5">
+        <Col>
+          <Card>
             <Card.Header>2020 NFL Wild Card Pool (Paid)</Card.Header>
             <Card.Body>
               <Card.Title>Winner: XxxDada89</Card.Title>
