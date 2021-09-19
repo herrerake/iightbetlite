@@ -23,9 +23,7 @@ const FormPage = () => (
             IMPORTANT: When submitting your payment, please let the money holder
             know your nickname.
           </p>
-          <p>
-            NOTE: 5% Admin fee will be subtracted from winners earnings
-          </p>
+          <p>NOTE: 5% Admin fee will be subtracted from winners earnings</p>
         </Col>
       </Row>
     </Container>
@@ -34,9 +32,9 @@ const FormPage = () => (
       title="Pick 'Ems Form"
       width="375"
       height="4190"
-      frameborder="0"
-      marginheight="0"
-      marginwidth="0"
+      frameBorder="0"
+      marginHeight="0"
+      marginWidth="0"
     >
       Loading…
     </iframe>

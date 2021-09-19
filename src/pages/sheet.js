@@ -13,6 +13,7 @@ const SheetPage = () => (
       src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSJFUHJ22sth1anEnpRv9b67TMv94J-u4C_M9Mpe8pTetia66BvcRuQNQk2xnoBajOKxxXTqQBlnwqS/pubhtml?gid=1047598295&amp;single=true&amp;widget=true&amp;headers=false"
       height="525"
       width="340"
+      title="2021 NFL Week 2 Sheet"
     ></iframe>
   </Layout>
 )
