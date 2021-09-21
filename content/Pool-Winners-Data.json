@@ -1,6 +1,14 @@
 [
   {
     "season": "2021",
+    "week": "2",
+    "winner": "Lou",
+    "amount": "475",
+    "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSJFUHJ22sth1anEnpRv9b67TMv94J-u4C_M9Mpe8pTetia66BvcRuQNQk2xnoBajOKxxXTqQBlnwqS/pubhtml?gid=1047598295&single=true",
+    "uuid": "20212"
+  },
+  {
+    "season": "2021",
     "week": "1",
     "winner": "Thinh",
     "amount": "250",

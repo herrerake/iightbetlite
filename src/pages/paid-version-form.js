@@ -20,10 +20,9 @@ const FormPage = () => (
             out on <Link to="/rules">this page</Link>
           </p>
           <p>
-            IMPORTANT: When submitting your payment, please let the money holder
+            IMPORTANT: When submitting your entry, please let the money holder
             know your nickname.
           </p>
-          <p>NOTE: 5% Admin fee will be subtracted from winners earnings</p>
         </Col>
       </Row>
     </Container>
