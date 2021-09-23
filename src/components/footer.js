@@ -6,14 +6,9 @@ import { Container, Row, Col } from "react-bootstrap"
 import { BsFillHouseFill, BsPencilSquare, BsFileText } from "react-icons/bs"
 import { FaFootballBall } from "react-icons/fa"
 
-// const checkPageLocation = (url) => {
-//   console.log(window.location.pathname)
-//   if(window.location.pathname === )
-// }
 
-// checkPageLocation();
 const Footer = () => (
-  <footer className="fixed-bottom bg-white border-dark py-2">
+  <footer className="fixed-bottom bg-white border-dark py-3">
     <Container>
       <Row className="text-center">
         <Col>
