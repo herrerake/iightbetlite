@@ -15,7 +15,7 @@ const Footer = () => (
           <Link
             to="/"
             className={
-              window.location.pathname === "/" ? "has-text-iightbet-blue" : "has-text-iightbet-gray"
+              document.location.pathname === "/" ? "has-text-iightbet-blue" : "has-text-iightbet-gray"
             }
           >
             <BsFillHouseFill size={25} />
@@ -25,7 +25,7 @@ const Footer = () => (
           <Link
             to="/paid-version-form"
             className={
-              window.location.pathname === "/paid-version-form"
+              document.location.pathname === "/paid-version-form"
                 ? "has-text-iightbet-blue"
                 : "has-text-iightbet-gray"
             }
@@ -37,7 +37,7 @@ const Footer = () => (
           <Link
             to="/sheet"
             className={
-              window.location.pathname === "/sheet"
+              document.location.pathname === "/sheet"
                 ? "has-text-iightbet-blue"
                 : "has-text-iightbet-gray"
             }
@@ -49,7 +49,7 @@ const Footer = () => (
           <Link
             to="/rules"
             className={
-              window.location.pathname === "/rules"
+              document.location.pathname === "/rules"
                 ? "has-text-iightbet-blue"
                 : "has-text-iightbet-gray"
             }
