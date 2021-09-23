@@ -20,6 +20,17 @@ const RulesPage = () => (
     </p>
     <ul>
       <li>
+        Player will use a nickname and inform sheet holder of their name
+        <ul>
+          Player will use 2 different nicknames for each entry. (e.g: player1,
+          player2)
+        </ul>
+      </li>
+      <li>
+        By entering a valid email address players will receive a receipt of
+        their picks. This secures and validates that picks will remain unchanged.
+      </li>
+      <li>
         Players must submit money entry in the amount agreed upon to designated
         pot holder no later than TNF kick off.
         <ul>

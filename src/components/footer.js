@@ -8,7 +8,7 @@ import { GrDocumentText } from "react-icons/gr"
 import { FaFootballBall } from "react-icons/fa"
 
 const Footer = () => (
-  <footer className="fixed-bottom bg-white border-top border-dark py-2">
+  <footer className="fixed-bottom bg-white border-dark py-2">
     <Container>
       <Row className="text-center">
         <Col>
