@@ -31,7 +31,15 @@ const IndexPage = () => (
                   {card.season} NFL Week {card.week} Pool (Paid)
                 </Card.Header>
                 <Card.Body>
-                  <Card.Title>Winner: {card.winner}</Card.Title>
+                  <Card.Title>
+                    {card.isTie
+                      ? card.winner.map((name, index) => {
+                          return (
+                            <span>{index !== 0 ? ` & ${name}` : `${name}`}</span>
+                          )
+                        })
+                      : card.winner}
+                  </Card.Title>
                   <Card.Text>Pot: ${card.amount}</Card.Text>
                   <Button variant="primary">
                     <a

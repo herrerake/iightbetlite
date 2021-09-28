@@ -1,81 +1,111 @@
 [
   {
     "season": "2021",
+    "week": "3",
+    "isTie": false,
+    "winner": "Primo",
+    "amount": "350",
+    "totalIncorrect": "3",
+    "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSi2r8ZmTsbE0piH4qBaPiXS80zfzXqNZJ13Fy-zCCu4fWEeudFp75sg--Dk90ypUrqZA1zIwAzza8t/pubhtml?gid=1593073966&single=true",
+    "uuid": "20213"
+  },
+  {
+    "season": "2021",
     "week": "2",
+    "isTie": false,
     "winner": "Lou",
     "amount": "475",
+    "totalIncorrect": "4",
     "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSJFUHJ22sth1anEnpRv9b67TMv94J-u4C_M9Mpe8pTetia66BvcRuQNQk2xnoBajOKxxXTqQBlnwqS/pubhtml?gid=1047598295&single=true",
     "uuid": "20212"
   },
   {
     "season": "2021",
     "week": "1",
+    "isTie": false,
     "winner": "Thinh",
     "amount": "250",
+    "totalIncorrect": "5",
     "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQFfm-h-AZA7xh2NL-RtepT9oU6dxWnL4OsUD8eh81TKRq0HOtvpsz7yfkBsTFJf_UWAoJBbENTmeca/pubhtml?gid=63944394&single=true",
     "uuid": "20211"
   },
   {
     "season": "2020",
     "week": "Wild Card",
+    "isTie": false,
     "winner": "Dashon",
     "amount": "250",
+    "totalIncorrect": "2",
     "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSSIMMd5ZCeSqt3NMiq0f_sggHwvw8LG8rS2g4DiTcfm9TV834_mAVTggFgTWnOUnRETFdE2WsgCXfH/pubhtml?gid=2125143015&single=true",
     "uuid": "2020wildcard"
   },
   {
     "season": "2020",
     "week": "15",
+    "isTie": false,
     "winner": "Sel",
     "amount": "100",
+    "totalIncorrect": "4",
     "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRaJy0ekH-m4Sud6JCyA6IaeBMyO3ZsS_CLxB9aaRltjkefN619zN691gKOWBAn_1ygvRbwudgc73TS/pubhtml?gid=592686307&single=true",
     "uuid": "202015"
   },
   {
     "season": "2020",
     "week": "14",
+    "isTie": false,
     "winner": "Primo",
     "amount": "150",
+    "totalIncorrect": "4",
     "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTCVs5w7PNwWUq2NS831zbySxBM1PNLpKHnzmi5mm8hnEUT69J8-9oe62JsguhpHEJrCXPvNRomDh-K/pubhtml?gid=1813967893&single=true",
     "uuid": "202014"
   },
   {
     "season": "2020",
     "week": "13",
+    "isTie": false,
     "winner": "Lachino",
     "amount": "250",
+    "totalIncorrect": "4",
     "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQAyIXsNx4jmUOmYRpdxXZxSomf1aYobTpaPAVker_UAnl7N7NmEi-I2wbuEdQhZNKiMwRs8RbT4lbt/pubhtml?gid=147846881&single=true",
     "uuid": "202013"
   },
   {
     "season": "2020",
     "week": "11",
-    "winner": "Salv & Primo",
+    "isTie": true,
+    "winner": ["Salv", "Primo"],
     "amount": "200",
+    "totalIncorrect": "6",
     "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQCgZwJcq6EQ6fWtYkYfHkL2Sj8Yr1qJe9bF-XEd1rcIMlqvaMglGlAv8MaxIC-JkN6qg-BSaHHXjco/pubhtml?gid=509084813&single=true",
     "uuid": "202011"
   },
   {
     "season": "2020",
     "week": "10",
+    "isTie": false,
     "winner": "Primo",
     "amount": "325",
+    "totalIncorrect": "4",
     "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTvGj7_F0ofci-mpEBEpyZDIWWb3iEigt8zfXu0LWjQJIgEM99KYWVXRZ4ZuyOonNDWUzTCP2NKurbU/pubhtml?gid=417030378&single=true",
     "uuid": "202010"
   },
   {
     "season": "2020",
     "week": "9",
+    "isTie": false,
     "winner": "Primo",
     "amount": "350",
+    "totalIncorrect": "3",
     "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQkw5lgOradN9_9u9bnIGsoVqJTIbWZShCqL49DW2mwQcXH_PkVQqcxrGuGTtU-qGJicmr5r2687skn/pubhtml?gid=1263257633&single=true",
     "uuid": "20209"
   },
   {
     "season": "2020",
     "week": "8",
+    "isTie": false,
     "winner": "Salv",
     "amount": "300",
+    "totalIncorrect": "3",
     "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRzQnIAsNGQ9mVfdg3uS0zvSc2EumO40mlL1Yy8baDhekb79F1kfySkkxP_S5kfsmvYM-6fzkwPDPPk/pubhtml?gid=1782443214&single=true",
     "uuid": "20208"
   },
@@ -84,14 +114,17 @@
     "week": "7",
     "winner": "Chingateputo",
     "amount": "375",
+    "totalIncorrect": "4",
     "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ5PLT8klZ3v9tTMBLYLUSczow7tCxJNJtINBAQIWnUm_9z4MO6q8cKqabSqME9p57M-uE1FZx91iwL/pubhtml?gid=304273877&single=true",
     "uuid": "20207"
   },
   {
     "season": "2020",
     "week": "6",
+    "isTie": false,
     "winner": "Lou",
     "amount": "500",
+    "totalIncorrect": "4",
     "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQlO-TzkMyVQ_FOlIGKatTty4ee5zltfFMsPuSpQpoOxTW1xyWb0K-zRfTVnrOfEyfNpFTh5cVYews7/pubhtml?gid=149271068&single=true",
     "uuid": "20206"
   }
