@@ -112,6 +112,7 @@
   {
     "season": "2020",
     "week": "7",
+    "isTie": false,
     "winner": "Chingateputo",
     "amount": "375",
     "totalIncorrect": "4",

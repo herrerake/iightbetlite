@@ -35,7 +35,7 @@ const IndexPage = () => (
                     {card.isTie
                       ? card.winner.map((name, index) => {
                           return (
-                            <span>{index !== 0 ? ` & ${name}` : `${name}`}</span>
+                            <span>{index === 0 ? `${name}` : ` & ${name}`}</span>
                           )
                         })
                       : card.winner}
