@@ -1,9 +1,10 @@
 import React from "react"
 import { Link } from "gatsby"
 import JSONHistory from "../../content/Pool-Winners-Data.json"
+import JSONLeaderboard from "../../content/Leaderboard-Data.json"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { Container, Row, Col, Card, Button } from "react-bootstrap"
+import { Container, Row, Col, Card, Button, Table } from "react-bootstrap"
 
 const IndexPage = () => (
   <Layout>
@@ -19,10 +20,47 @@ const IndexPage = () => (
       </Row>
       <Row>
         <Col>
-          <h1>History</h1>
+          <h1>Leaderboard</h1>
+        </Col>
+      </Row>
+      <Row>
+        <Col>
+          <h2>Top Earners</h2>
+        </Col>
+      </Row>
+      <Row>
+        <Col>
+          <Table striped bordered hover>
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Player</th>
+                <th>Earnings</th>
+                <th className="text-align-center">Wins</th>
+              </tr>
+            </thead>
+            <tbody>
+              {JSONLeaderboard.map((player, index) => {
+                return (
+                  <tr key={player.uuid}>
+                    <td className="text-align-center">{index + 1}</td>
+                    <td>{player.username}</td>
+                    <td className="text-align-center">${player.earnings}</td>
+                    <td className="text-align-center">{player.wins}</td>
+                  </tr>
+                )
+              })}
+            </tbody>
+          </Table>
+        </Col>
+      </Row>
+      <Row>
+        <Col>
+          <h2>History</h2>
         </Col>
       </Row>
       {JSONHistory.map((card, index) => {
+        console.log(index)
         return (
           <Row className={index !== 0 ? "mt-5" : ""} key={card.uuid}>
             <Col>
@@ -35,7 +73,9 @@ const IndexPage = () => (
                     {card.isTie
                       ? card.winner.map((name, index) => {
                           return (
-                            <span>{index === 0 ? `${name}` : ` & ${name}`}</span>
+                            <span key={name + index}>
+                              {index === 0 ? `${name}` : ` & ${name}`}
+                            </span>
                           )
                         })
                       : card.winner}
