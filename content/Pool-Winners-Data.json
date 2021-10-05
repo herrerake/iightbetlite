@@ -1,6 +1,16 @@
 [
   {
     "season": "2021",
+    "week": "4",
+    "isTie": false,
+    "winner": "Andrew",
+    "amount": "400",
+    "totalIncorrect": "4",
+    "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTcIO9VLhcd-wlnYH1hX_4QkofTDZCTVPznygO8o2l-RsBwanv-aWCqnFH-goBwIfxYcHclLukXsb1x/pubhtml?gid=1269930808&single=true",
+    "uuid": "20214"
+  },
+  {
+    "season": "2021",
     "week": "3",
     "isTie": false,
     "winner": "Primo",
