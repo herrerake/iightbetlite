@@ -8,13 +8,13 @@ import { Container, Row, Col } from "react-bootstrap"
 
 const FormPage = () => (
   <Layout>
-    <SEO title="NFL Week 7 Form" />
+    <SEO title="NFL Week 8 Form" />
     <Container>
       <Row>
         <Col>
           <h1>Weekly Pool</h1>
           <p>Winner take all</p>
-          <p>Picks are due by Thursday @ 7pm EST</p>
+          <p>Picks are due by Sunday @ 12pm EST</p>
           <p>
             By submitting picks to this pool you agree to follow the rules laid
             out on <Link to="/rules">this page</Link>
