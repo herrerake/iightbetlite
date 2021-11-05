@@ -1,6 +1,16 @@
 [
   {
     "season": "2021",
+    "week": "8",
+    "isTie": false,
+    "winner": "Lou",
+    "amount": "250",
+    "totalIncorrect": "5",
+    "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTdFsTwzX0Slef487KKQQ0epPjRKmNUYkNYjC9TTKVkgNtgz38DpLgtLXNtu3_9V4w3uDGBAe8ZD1CB/pubhtml?gid=1462543027&single=true",
+    "uuid": "20218"
+  },
+  {
+    "season": "2021",
     "week": "7",
     "isTie": false,
     "winner": "Henrock",
