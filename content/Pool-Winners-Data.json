@@ -1,6 +1,16 @@
 [
   {
     "season": "2021",
+    "week": "9",
+    "isTie": false,
+    "winner": "Lou",
+    "amount": "200",
+    "totalIncorrect": "6",
+    "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRrhUPeplVBj82qAY5s5RNxB65mjuN5YRt16dGqTmXOQZyjnrXpJaudGVsmrjVRXdWpReFczzuBtlRX/pubhtml?gid=982142340&single=true",
+    "uuid": "20219"
+  },
+  {
+    "season": "2021",
     "week": "8",
     "isTie": false,
     "winner": "Lou",

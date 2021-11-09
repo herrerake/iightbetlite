@@ -14,7 +14,7 @@ const FormPage = () => (
         <Col>
           <h1>Weekly Pool</h1>
           <p>Winner take all</p>
-          <p>Picks are due by Sunday @ 12pm EST</p>
+          <p>Picks are due by Thursday @ 12pm EST</p>
           <p>
             By submitting picks to this pool you agree to follow the rules laid
             out on <Link to="/rules">this page</Link>

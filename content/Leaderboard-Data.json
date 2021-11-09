@@ -1,15 +1,15 @@
 [
   {
+    "username": "Lou",
+    "earnings": "1425",
+    "wins": "4",
+    "uuid": "lou2021"
+  },
+  {
     "username": "Primo",
     "earnings": "1275",
     "wins": "5",
     "uuid": "primo2021"
-  },
-  {
-    "username": "Lou",
-    "earnings": "1225",
-    "wins": "3",
-    "uuid": "lou2021"
   },
   {
     "username": "Henrock",
