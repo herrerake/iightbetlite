@@ -4,7 +4,7 @@ import SEO from "../components/seo"
 
 const SheetPage = () => (
   <Layout>
-    <SEO title="2021 NFL Week 10 Sheet" />
+    <SEO title="2021 NFL Week 11 Sheet" />
     <h1>2021 NFL Week 11 Sheet</h1>
     {/* <h3>Pot this week is $225 (+800)</h3> */}
     <p>Check back 30min before the Thursday kickoff game to see the sheet.</p>
