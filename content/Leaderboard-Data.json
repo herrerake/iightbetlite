@@ -36,6 +36,12 @@
     "uuid": "chingateputo2021"
   },
   {
+    "username": "Sel",
+    "earnings": "350",
+    "wins": "2",
+    "uuid": "sel2021"
+  },
+  {
     "username": "Nica",
     "earnings": "325",
     "wins": "1",
@@ -58,11 +64,5 @@
     "earnings": "250",
     "wins": "1",
     "uuid": "lachino2021"
-  },
-  {
-    "username": "Sel",
-    "earnings": "100",
-    "wins": "1",
-    "uuid": "sel2021"
-  }
+  }  
 ]
