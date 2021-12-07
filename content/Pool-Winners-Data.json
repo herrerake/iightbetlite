@@ -1,6 +1,16 @@
 [
   {
     "season": "2021",
+    "week": "13",
+    "isTie": true,
+    "winner": ["Tony", "Lou"],
+    "amount": "175",
+    "totalIncorrect": "4",
+    "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTmwoJ6YKCnuFjNrcc4AMRHuwbh8MJw_HBvMVkXmIqEfMPS2oIYyG-VWSDI50gDSgXBgLqfqRQQauLO/pubhtml?gid=788360609&single=true",
+    "uuid": "202113"
+  },
+  {
+    "season": "2021",
     "week": "12",
     "isTie": false,
     "winner": "Jay",

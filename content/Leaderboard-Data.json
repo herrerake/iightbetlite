@@ -1,7 +1,7 @@
 [
   {
     "username": "Lou",
-    "earnings": "1650",
+    "earnings": "1712.50",
     "wins": "5",
     "uuid": "lou2021"
   },
@@ -70,5 +70,11 @@
     "earnings": "250",
     "wins": "1",
     "uuid": "jay2021"
-  }  
+  },
+  {
+    "username": "Tony",
+    "earnings": "87.50",
+    "wins": "1",
+    "uuid": "tony2021"
+  }    
 ]
