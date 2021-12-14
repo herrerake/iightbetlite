@@ -1,6 +1,16 @@
 [
   {
     "season": "2021",
+    "week": "14",
+    "isTie": false,
+    "winner": ["El Primo"],
+    "amount": "175",
+    "totalIncorrect": "3",
+    "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vR4uWIOJbZ6jNhqPEIo6Be5EDFJl_G-qe2YbKJSL7Lmz0wD4h0tB1VZtwq5E0-_LO32bx_1M0s6wFRS/pubhtml?gid=895794928&single=true",
+    "uuid": "202114"
+  },
+  {
+    "season": "2021",
     "week": "13",
     "isTie": true,
     "winner": ["Tony", "Lou"],
