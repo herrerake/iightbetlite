@@ -6,7 +6,7 @@ const SheetPage = () => (
   <Layout>
     <SEO title="2021 NFL Week 16 Sheet" />
     <h1>2021 NFL Week 16 Sheet</h1>
-    <h3>Pot this week is $250 (+900)</h3>
+    <h3>Pot this week is $225 (+800)</h3>
     <p>$50 Christmas Bonus to the winner this week!</p>
     {/* <p>Check back 30min before the Thursday kickoff game to see the sheet.</p> */}
     <iframe
