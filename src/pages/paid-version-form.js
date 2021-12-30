@@ -14,7 +14,11 @@ const FormPage = () => (
         <Col>
           <h1>Weekly Pool</h1>
           <p>Winner take all</p>
-          <p>Picks are due by Thursday @ 6pm EST</p>
+          <p>Picks are due by Sunday @ Noon EST</p>
+          <p>
+            Starting the New Year off right with a $100 Bonus to the winner this
+            week!
+          </p>
           {/* <p>***Thanksgiving Week*** Picks are due by Thursday @ 11am EST</p> */}
           <p>
             By submitting picks to this pool you agree to follow the rules laid
@@ -28,7 +32,7 @@ const FormPage = () => (
       </Row>
     </Container>
     <iframe
-      src="https://docs.google.com/forms/d/e/1FAIpQLSfphFnC1iJY_XarCqfMc54lZ7r2cgYFiukaUqxe9bmTugP6AA/viewform?embedded=true"
+      src="https://docs.google.com/forms/d/e/1FAIpQLSceVbbHGpQMJHzdP4JnKdwaZU2WXPS30GDbL2Acr8Rwf3MXBA/viewform?embedded=true"
       title="Pick 'Ems Form"
       width="375"
       height="4190"

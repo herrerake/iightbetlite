@@ -1,9 +1,19 @@
 [
   {
     "season": "2021",
+    "week": "16",
+    "isTie": false,
+    "winner": "El Primo",
+    "amount": "275",
+    "totalIncorrect": "4",
+    "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT350uKjYWqTjuiyqHdYR9LkQmskVAnXki7GdiU2jOx_XXbhAJB3k4hN4r3T2LSK7rC-wzmrXkdoP5o/pubhtml?gid=639696967&single=true",
+    "uuid": "202116"
+  },
+  {
+    "season": "2021",
     "week": "15",
     "isTie": false,
-    "winner": ["JDubs"],
+    "winner": "JDubs",
     "amount": "175",
     "totalIncorrect": "3",
     "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRp5hAJ0uDK6M9uzxso40z38dh1uH8r8Y4vaxCH-UAk9UozfuYY0W2zAFsiWUIlfoa_zNLAbgEeb44e/pubhtml?gid=594245052&single=true",
@@ -13,7 +23,7 @@
     "season": "2021",
     "week": "14",
     "isTie": false,
-    "winner": ["El Primo"],
+    "winner": "El Primo",
     "amount": "175",
     "totalIncorrect": "3",
     "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vR4uWIOJbZ6jNhqPEIo6Be5EDFJl_G-qe2YbKJSL7Lmz0wD4h0tB1VZtwq5E0-_LO32bx_1M0s6wFRS/pubhtml?gid=895794928&single=true",
