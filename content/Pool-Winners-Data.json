@@ -1,6 +1,16 @@
 [
   {
     "season": "2021",
+    "week": "17",
+    "isTie": false,
+    "winner": "Mili_rockz",
+    "amount": "400",
+    "totalIncorrect": "2",
+    "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT2WwKiUSTGV5vteikxuVvS7GGQ9rEa9hCSMHWdyJps8n0xGYEqzbu_1hl_B6Vu4lxJaJ33yJzWSbje/pubhtml?gid=1518078720&single=true",
+    "uuid": "202117"
+  },
+  {
+    "season": "2021",
     "week": "16",
     "isTie": false,
     "winner": "El Primo",
