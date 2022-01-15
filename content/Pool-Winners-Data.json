@@ -1,6 +1,16 @@
 [
   {
     "season": "2021",
+    "week": "18",
+    "isTie": false,
+    "winner": "Sel",
+    "amount": "175",
+    "totalIncorrect": "5",
+    "link": "hhttps://docs.google.com/spreadsheets/d/e/2PACX-1vRd2tVhOdTq92g-RZGIKVgcdcx8ASXye0QSTfY-bi0mcGeKTxJr-gBA3s7iZzl6vZkxBzyCsccjAQss/pubhtml?gid=1060589350&single=true",
+    "uuid": "202118"
+  },
+  {
+    "season": "2021",
     "week": "17",
     "isTie": false,
     "winner": "Mili_rockz",
