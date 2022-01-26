@@ -1,6 +1,16 @@
 [
   {
     "season": "2021",
+    "week": "20",
+    "isTie": false,
+    "winner": "Henrock",
+    "amount": "50",
+    "totalIncorrect": "2",
+    "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRs9KpiO4KH2yC2pRl6tU0g9Be3TLsEacDAnJ4493EK0JCw_21OTpv0F9bgQd5Z8ZSSd5gMkSeddS0H/pubhtml?gid=185132360&single=true",
+    "uuid": "202120"
+  },
+  {
+    "season": "2021",
     "week": "19",
     "isTie": false,
     "winner": "Sel",
