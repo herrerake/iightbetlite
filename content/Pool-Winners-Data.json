@@ -1,5 +1,15 @@
 [
   {
+    "season": "2022",
+    "week": "1",
+    "isTie": false,
+    "winner": "Dylanpresley94",
+    "amount": "250",
+    "totalIncorrect": "5",
+    "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSKPN9irJwan4zz_sFu0dl_zGaBgUTXJkZqr1YB89Uq4ZGerfg1UkE429BUOXDBNMfq4kVHpjOC0H3y/pubhtml?gid=1269895067&single=true",
+    "uuid": "202201"
+  },
+  {
     "season": "2021",
     "week": "20",
     "isTie": false,
