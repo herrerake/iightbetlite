@@ -1,6 +1,16 @@
 [
   {
     "season": "2022",
+    "week": "2",
+    "isTie": false,
+    "winner": "Sel",
+    "amount": "300",
+    "totalIncorrect": "6",
+    "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS8sdlYu2jif6aYftp09SrynaYIY3zjINOESiGVQQGcPRLia5VuXp3LXhmvnDlJHYcv1BwxsUwAD9X4/pubhtml?gid=665732670&single=true",
+    "uuid": "202202"
+  },
+  {
+    "season": "2022",
     "week": "1",
     "isTie": false,
     "winner": "Dylanpresley94",
@@ -53,7 +63,7 @@
     "season": "2021",
     "week": "16",
     "isTie": false,
-    "winner": "El Primo",
+    "winner": "Primo",
     "amount": "275",
     "totalIncorrect": "4",
     "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT350uKjYWqTjuiyqHdYR9LkQmskVAnXki7GdiU2jOx_XXbhAJB3k4hN4r3T2LSK7rC-wzmrXkdoP5o/pubhtml?gid=639696967&single=true",
@@ -73,7 +83,7 @@
     "season": "2021",
     "week": "14",
     "isTie": false,
-    "winner": "El Primo",
+    "winner": "Primo",
     "amount": "175",
     "totalIncorrect": "3",
     "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vR4uWIOJbZ6jNhqPEIo6Be5EDFJl_G-qe2YbKJSL7Lmz0wD4h0tB1VZtwq5E0-_LO32bx_1M0s6wFRS/pubhtml?gid=895794928&single=true",
@@ -103,7 +113,7 @@
     "season": "2021",
     "week": "11",
     "isTie": false,
-    "winner": "SEL",
+    "winner": "Sel",
     "amount": "250",
     "totalIncorrect": "3",
     "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSeOVVzqWTRvVB38yonCBxSlvzDbtg6-xVpZQ6fNTz3wgL2osRXLrJjcqlVOIr648gE6dBLviO894E8/pubhtml?gid=243043027&amp;single=true&amp;widget=true&amp;headers=false",

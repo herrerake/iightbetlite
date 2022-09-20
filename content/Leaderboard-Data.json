@@ -12,16 +12,16 @@
     "uuid": "lou2021"
   },
   {
+    "username": "Sel",
+    "earnings": "1075",
+    "wins": "5",
+    "uuid": "sel2021"
+  },
+  {
     "username": "Henrock",
     "earnings": "875",
     "wins": "3",
     "uuid": "henrock2021"
-  },
-  {
-    "username": "Sel",
-    "earnings": "775",
-    "wins": "4",
-    "uuid": "sel2021"
   },
   {
     "username": "Salv",
@@ -94,5 +94,5 @@
     "earnings": "87.50",
     "wins": "1",
     "uuid": "tony2021"
-  }    
+  }
 ]
