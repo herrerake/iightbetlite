@@ -30,6 +30,12 @@
     "uuid": "salv2021"
   },
   {
+    "username": "XXXDaDa89",
+    "earnings": "375",
+    "wins": "2",
+    "uuid": "xxxdada892021"
+  },
+  {
     "username": "Andrew",
     "earnings": "400",
     "wins": "1",
@@ -60,12 +66,6 @@
     "uuid": "thinh2021"
   },
   {
-    "username": "XXXDaDa89",
-    "earnings": "250",
-    "wins": "1",
-    "uuid": "xxxdada892021"
-  },
-  {
     "username": "Lachino",
     "earnings": "250",
     "wins": "1",
@@ -88,6 +88,12 @@
     "earnings": "175",
     "wins": "1",
     "uuid": "jdub2021"
+  },
+  {
+    "username": "Jgray",
+    "earnings": "125",
+    "wins": "1",
+    "uuid": "jgray2021"
   },
   {
     "username": "TMoney",
