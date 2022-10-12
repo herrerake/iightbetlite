@@ -24,6 +24,12 @@
     "uuid": "henrock2021"
   },
   {
+    "username": "Andrew",
+    "earnings": "525",
+    "wins": "2",
+    "uuid": "andrew2021"
+  },
+  {
     "username": "Salv",
     "earnings": "400",
     "wins": "2",
@@ -34,12 +40,6 @@
     "earnings": "375",
     "wins": "2",
     "uuid": "xxxdada892021"
-  },
-  {
-    "username": "Andrew",
-    "earnings": "400",
-    "wins": "1",
-    "uuid": "andrew2021"
   },
   {
     "username": "Mili_rockz",

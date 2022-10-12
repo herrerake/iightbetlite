@@ -1,13 +1,23 @@
 [
   {
     "season": "2022",
-    "week": "4",
+    "week": "5",
     "isTie": false,
-    "winner": "Jgray & XXXDaDa89",
+    "winner": "Andrew",
+    "amount": "150",
+    "totalIncorrect": "6",
+    "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRzKOBTEMY-PYkFZfvs8lY41jm-1ZRM198wh6QdiNIFth2BJGC9GD-Wt-Ng0XVTUQLSaPgEkGruAMfu/pubhtml?gid=2078184346&single=true",
+    "uuid": "202205"
+  },
+  {
+    "season": "2022",
+    "week": "4",
+    "isTie": true,
+    "winner": ["Jgray", "XXXDaDa89"],
     "amount": "250",
     "totalIncorrect": "5",
     "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRHNaj1quBNQzHCiOCo0G4Ag2t6sNnIYZ9o-uh-oJkDWLU593PObQXprYJUVAk8O9s4wvDhgRJLqCVD/pubhtml?gid=1936741679&amp;single=true",
-    "uuid": "202203"
+    "uuid": "202204"
   },
   {
     "season": "2022",
