@@ -1,6 +1,16 @@
 [
   {
     "season": "2022",
+    "week": "6",
+    "isTie": false,
+    "winner": "Salv",
+    "amount": "250",
+    "totalIncorrect": "4",
+    "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRK_ZMQMSK-osGRP_fiLIqzY87WopPkudr_dU0fIRXMola97IDgmhXjLfG0qgxBiJavNQouflnVTHM_/pubhtml?gid=616133058&single=true",
+    "uuid": "202206"
+  },
+  {
+    "season": "2022",
     "week": "5",
     "isTie": false,
     "winner": "Andrew",
