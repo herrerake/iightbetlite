@@ -8,7 +8,7 @@ import { Container, Row, Col } from "react-bootstrap"
 
 const FormPage = () => (
   <Layout>
-    <SEO title="2022 NFL Season Week 6 Form" />
+    <SEO title="2022 NFL Season Week 8 Form" />
     <Container>
       <Row>
         <Col>
@@ -28,7 +28,7 @@ const FormPage = () => (
       </Row>
     </Container>
     <iframe
-      src="https://docs.google.com/forms/d/e/1FAIpQLSdIic-pCl_Rwcm5dTSi2OcdlYe_PFiTExjKUrnK6FQEDUULqQ/viewform?embedded=true"
+      src="https://docs.google.com/forms/d/e/1FAIpQLSemRStqDTl8-7gvmnb8yo-WuSFHlADQxs6ckpM48QNA1F_QoQ/viewform?embedded=true"
       title="Pick 'Ems Form"
       width="375"
       height="4190"

@@ -1,6 +1,16 @@
 [
   {
     "season": "2022",
+    "week": "7",
+    "isTie": false,
+    "winner": "Tmoney",
+    "amount": "150",
+    "totalIncorrect": "4",
+    "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQu4NAgMNEppC_eQFzXqqfd6uLWbjkrJp-g7XorPh51HbwFYUtZHVUm3nWvKhlf6rb_OL7zijLL4LW1/pubhtml?gid=1242981610&single=true",
+    "uuid": "202207"
+  },
+  {
+    "season": "2022",
     "week": "6",
     "isTie": false,
     "winner": "Salv",
