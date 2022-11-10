@@ -1,7 +1,17 @@
 [
   {
     "season": "2022",
-    "week": "7",
+    "week": "9",
+    "isTie": false,
+    "winner": "Oro Mero",
+    "amount": "125",
+    "totalIncorrect": "1",
+    "link": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQuyNrdWYSvven919YUbMy9ERUriPPi9gpJLfUysjQDSiz5Vbk8qnYlT55mwNSWidcRy6Ceq96rdd4v/pubhtml?gid=747782028&single=true",
+    "uuid": "202209"
+  },
+  {
+    "season": "2022",
+    "week": "8",
     "isTie": false,
     "winner": "Tmoney",
     "amount": "225",
