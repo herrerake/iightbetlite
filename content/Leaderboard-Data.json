@@ -48,6 +48,12 @@
     "uuid": "xxxdada892021"
   },
   {
+    "username": "Oro Mero",
+    "earnings": "200",
+    "wins": "2",
+    "uuid": "oromero2022"
+  },
+  {
     "username": "Mili_rockz",
     "earnings": "400",
     "wins": "1",
@@ -100,11 +106,5 @@
     "earnings": "125",
     "wins": "1",
     "uuid": "jgray2021"
-  },
-  {
-    "username": "Oro Mero",
-    "earnings": "125",
-    "wins": "1",
-    "uuid": "oromero2022"
   }
 ]
