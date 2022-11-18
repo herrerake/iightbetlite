@@ -9,7 +9,7 @@ const SheetPage = () => (
     <h3>Pot this week is $125 (+400)</h3>
     {/* <p>Check back 30min before the Thursday kickoff game to see the sheet.</p> */}
     <iframe
-      src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5Gd0QXfsb1-e6EdnIT8jDXq2BZFLutrJctzbHH2GtgYM-QTxV1LvCzA5n8XgXpOqEZHsb2HJ6jpNZ/pubhtml?gid=1569881523&amp;single=true&amp;widget=true&amp;headers=false"
+      src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTs9UqF-HUW1LloWD7sVO3tA6jw8KKn0mAWr3p1GLYNAZEu4RN8Zs9srekl4sT19meuZexckeoWul4M/pubhtml?widget=true&amp;headers=false"
       height="525"
       width="340"
       title="2022 NFL Season Week 11"
